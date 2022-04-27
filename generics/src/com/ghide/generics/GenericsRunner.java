@@ -1,11 +1,7 @@
 
-package com.in28minutes.generics;
+package com.ghide.generics;
 
 public class GenericsRunner {
-
-	// static <X> x doubleValue(x value) {
-	// return value;
-	// }
 
 	public static void main(String[] args) {
 
